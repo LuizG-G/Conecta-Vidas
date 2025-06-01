@@ -46,6 +46,6 @@ Em breve o projeto terá desenvolvimento com React Native e integração com ban
 
 ## 🤓🤝 equipe
 
-Idealizado por [Luiz Gustavo Guedes, Lucas Soares], responsável pelo design, pitch e documentação. Futuramente será também o desenvolvedor responsável pelo app.
+[Luiz Gustavo Guedes] responsável pela idea, pelo designe e documentação Futuramente será também desenvolvedor do app.
 
 ---
