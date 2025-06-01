@@ -38,7 +38,7 @@ Imigrantes e refugiados em situação de vulnerabilidade social, especialmente r
 ## 📎 Anexos
 
 - 📄 [Documentação completa do projeto (Word)](./Projeto_Conecta_Vidas.docx)
-- 🎨 [Protótipo no Figma]([https://www.figma.com/proto/STPfMCYCUoWzJ7lzGfkfja/Untitled?node-id=143-69...](https://www.figma.com/proto/STPfMCYCUoWzJ7lzGfkfja/conecta-vidas?node-id=143-38&p=f&t=kp7Mmu6wzfbf8TX2-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=143%3A38))
+- 🎨 [Protótipo no Figma]([https://www.figma.com/proto/STPfMCYCUoWzJ7lzGfkfja/Untitled?node-id=143-69...](https://www.figma.com/proto/STPfMCYCUoWzJ7lzGfkfja/conecta-vidas?node-id=143-38&p=f&t=kp7Mmu6wzfbf8TX2-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=143%3A38)
 - 📊 [Slides da apresentação no Canva](https://www.canva.com/design/DAGo2Cx-iJg/Y5Gkvgsxo-N51-_L3YPLEg/view)
 
 ## 📂 Estrutura futura
