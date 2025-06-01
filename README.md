@@ -44,7 +44,7 @@ Imigrantes e refugiados em situação de vulnerabilidade social, especialmente r
 
 Em breve o projeto terá desenvolvimento com React Native e integração com banco de dados para disponibilização real.
 
-## 🙋‍♂️ Autor
+## 🤓🤝 equipe
 
 Idealizado por [Luiz Gustavo Guedes, Lucas Soares], responsável pelo design, pitch e documentação. Futuramente será também o desenvolvedor responsável pelo app.
 
