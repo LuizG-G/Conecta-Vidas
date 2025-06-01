@@ -33,7 +33,6 @@ Imigrantes e refugiados em situação de vulnerabilidade social, especialmente r
 
 - [Figma](https://www.figma.com) – Prototipagem da interface
 - [Canva](https://www.canva.com) – Slides de apresentação
-- GitHub – Repositório de documentação e código futuro
 
 ## 📎 Anexos
 
